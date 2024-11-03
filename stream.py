@@ -14,7 +14,7 @@ st.caption("Captions are generally like this. 😄")
 
 # a=str(st.write(os.getcwd()))
 # str(os.getcwd()).replace("\","/"")
-st.image(str(os.getcwd()).replace('\\','/') + "/OneDrive/Desktop/Streamlit/hi.jpeg")
+st.image("C:/Users/HP/OneDrive/Desktop/Streamlit/hi.jpeg")
 st.video("C:/Users/HP/OneDrive/Desktop/Streamlit/Eren-Yeager-Wallpapers-4k.jpg .mp4")
 st.audio("d:/SONGS/the-chainsmokers-you-owe-me.mp3")
 # st.write(c)
